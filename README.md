@@ -2,7 +2,8 @@
 Every Tuesday
 
 ## 7 May 2019
-* [shifan] 
+* [shifan] Why ReLU networks yield high-conﬁdence predictions far away from the training data and how to mitigate the problem
+* [shifan] Learning to Synthesize Motion Blur
 
 ## 14  May 2019
 * [tianxiaowei]
