@@ -6,7 +6,7 @@ Every Tuesday
 * [shifan] Learning to Synthesize Motion Blur
 
 ## 14  May 2019
-* [tianxiaowei]
+* [tianxiaowei] [Shape Robust Text Detection with Progressive Scale Expansion Network](https://github.com/whai362/PSENet)
 
 
 ## 21 May 2019
