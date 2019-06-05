@@ -8,11 +8,6 @@ Every Tuesday
 ## 16  May 2019
 * [tianxiaowei] Character Region Awareness for Text Detection
 
-
-## 21 May 2019
-
-## 28 May 2019
-
 ## 6 June 2019
 * [shifan] Learning to Synthesize Motion Blur
 * [tianxiaowei] Shape Robust Text Detection with Progressive Scale Expansion Network [[code](https://github.com/whai362/PSENet)]
