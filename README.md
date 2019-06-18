@@ -14,8 +14,10 @@ Every Tuesday
 
 
 
-## 11 June 2019
-* [liangdong]
+## 19 June 2019
+* [liangdong] Unsupervised Part-Based Disentangling of Object Shape and Appearance
+* [liangdong] SFNet: Learning Object-aware Semantic Correspondence
+
 ## 18 June 2019
 * [zoucong]
 ## 25 June 2019
