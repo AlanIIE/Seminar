@@ -16,10 +16,11 @@ Every Tuesday
 
 ## 19 June 2019
 * [liangdong] Unsupervised Part-Based Disentangling of Object Shape and Appearance
-* [liangdong] SFNet: Learning Object-aware Semantic Correspondence
 
 ## 18 June 2019
-* [zoucong]
+* [liangdong] SFNet: Learning Object-aware Semantic Correspondence
+* [zoucong] Looking for the Devil in the Details: Learning Trilinear Attention Sampling Network for Fine-grained Image Recognition
+
 ## 25 June 2019
 * [tongxuezhi]
 ## 2 July 2019
