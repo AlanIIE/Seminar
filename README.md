@@ -19,6 +19,8 @@ Every Tuesday
 
 ## 25 June 2019
 * [liangdong] SFNet: Learning Object-aware Semantic Correspondence
+
+## 10 June 2019
 * [zoucong] Looking for the Devil in the Details: Learning Trilinear Attention Sampling Network for Fine-grained Image Recognition
 
 ## ?? June 2019
