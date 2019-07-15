@@ -23,7 +23,7 @@ Every Tuesday
 ## 10 July 2019
 * [zoucong] Looking for the Devil in the Details: Learning Trilinear Attention Sampling Network for Fine-grained Image Recognition
 
-## ?? July 2019
+## 15 July 2019
 * [tongxuezhi] Simplifying Graph Convolutional Networks，ICML 2019
 * [tongxuezhi] Learning Discrete Structures for Graph Neural Networks，ICML 2019
 
