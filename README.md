@@ -27,7 +27,7 @@ Every Tuesday
 * [tongxuezhi] Simplifying Graph Convolutional Networks，ICML 2019
 * [tongxuezhi] Learning Discrete Structures for Graph Neural Networks，ICML 2019
 
-## 2 July 2019
-* [lvfeixiao]
+## 23 July 2019
+* [lvfeixiao] Transformation Networks for Target-Oriented Sentiment Classifcation
 ## 9 July 2019
 * [qijunkun]
