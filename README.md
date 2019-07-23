@@ -24,10 +24,12 @@ Every Tuesday
 * [zoucong] Looking for the Devil in the Details: Learning Trilinear Attention Sampling Network for Fine-grained Image Recognition
 
 ## 15 July 2019
+* [zoucong] Attention-based Dropout Layer for Weakly Supervised Object Localization (CVPR2019 Oral) 
+* [zoucong] Kervolutional Neural Networks (CVPR2019 Oral)
 * [tongxuezhi] Simplifying Graph Convolutional Networks，ICML 2019
 * [tongxuezhi] Learning Discrete Structures for Graph Neural Networks，ICML 2019
 
 ## 23 July 2019
-* [lvfeixiao] Transformation Networks for Target-Oriented Sentiment Classifcation
+* [lvfeixiao] Transformation Networks for Target-Oriented Sentiment Classifcation (ACL 2018)
 ## 9 July 2019
 * [qijunkun]
