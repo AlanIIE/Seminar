@@ -33,6 +33,5 @@ Every Tuesday
 * [lvfeixiao] Transformation Networks for Target-Oriented Sentiment Classifcation (ACL 2018)
 
 ## 22 Aug 2019
-* [qijunkun]
-Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations (ICML 2019)
-The Contextual Loss for Image Transformation with Non-aligned Data (ECCV 2018)
+* [qijunkun] Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations (ICML 2019)
+* [qijunkun] The Contextual Loss for Image Transformation with Non-aligned Data (ECCV 2018)
