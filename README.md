@@ -29,7 +29,10 @@ Every Tuesday
 * [tongxuezhi] Simplifying Graph Convolutional Networks，ICML 2019
 * [tongxuezhi] Learning Discrete Structures for Graph Neural Networks，ICML 2019
 
-## 23 July 2019
+## 23 July (19 Aug) 2019
 * [lvfeixiao] Transformation Networks for Target-Oriented Sentiment Classifcation (ACL 2018)
-## 9 July 2019
+
+## 22 Aug 2019
 * [qijunkun]
+Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations (ICML 2019)
+The Contextual Loss for Image Transformation with Non-aligned Data (ECCV 2018)
