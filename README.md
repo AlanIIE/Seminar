@@ -36,6 +36,6 @@ Every Tuesday
 * [qijunkun] Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations (ICML 2019)
 * [qijunkun] The Contextual Loss for Image Transformation with Non-aligned Data (ECCV 2018)
 
-## 12 Sep 2019
+## 11 Sep 2019
 * [shifan] Onion-PeelNetworksforDeepVideoCompletion
 * [shifan] Self-supervised Spatiotemporal Learning via Video Clip Order Prediction
