@@ -1,5 +1,5 @@
 # Seminar
-Every Tuesday
+Every Wednesday
 
 ## 7 May 2019
 * [shifan] Why ReLU networks yield high-conﬁdence predictions far away from the training data and how to mitigate the problem [[code](https://github.com/max-andr/relu_networks_overconfident)]
