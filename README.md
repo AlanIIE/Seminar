@@ -40,6 +40,6 @@ Every Wednesday
 * [shifan] Onion-PeelNetworksforDeepVideoCompletion
 * [shifan] Self-supervised Spatiotemporal Learning via Video Clip Order Prediction
 
-## 25 Oct 2019
+## 30 Oct 2019
 * [liangdong] Spectrally-normalized margin bounds for neural networks (NIPS 2017)
 * [liangdong] Generalization Bounds for Neural Networks via Approximate Description Length (NIPS 2019)
