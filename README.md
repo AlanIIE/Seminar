@@ -50,5 +50,6 @@ Every Wednesday
 * [zoucong] Categorization Cross-X Learning for Fine-Grained Visual Categorization
 
 ## 20 Nov 2019
-* [qijunkun] 
-* [qijunkun]
+* [qijunkun] Improved precision and recall metric for assessing generative models (NeurIPS19)
+* [qijunkun] Image-to-image translation via group-wise deep whitening-and-coloring transformation (CVPR19)
+* [qijunkun] Multi-mapping image-to-image translation via learning disentanglement (NeurIPS19)
