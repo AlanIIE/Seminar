@@ -37,9 +37,18 @@ Every Wednesday
 * [qijunkun] The Contextual Loss for Image Transformation with Non-aligned Data (ECCV 2018)
 
 ## 11 Sep 2019
-* [shifan] Onion-PeelNetworksforDeepVideoCompletion
+* [shifan] Onion-Peel Networks for Deep Video Completion
 * [shifan] Self-supervised Spatiotemporal Learning via Video Clip Order Prediction
 
 ## 30 Oct 2019
 * [liangdong] Spectrally-normalized margin bounds for neural networks (NIPS 2017)
 * [liangdong] Generalization Bounds for Neural Networks via Approximate Description Length (NIPS 2019)
+
+## 6 Nov 2019
+* [zoucong] Selective Sparse Sampling for Fine-grained Image Recognition
+* [zoucong] Learning a Mixture of Granularity-Specific Experts for Fine-Grained
+* [zoucong] Categorization Cross-X Learning for Fine-Grained Visual Categorization
+
+## 20 Nov 2019
+* [qijunkun] 
+* [qijunkun]
