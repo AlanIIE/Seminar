@@ -53,3 +53,7 @@ Every Wednesday
 * [qijunkun] Improved precision and recall metric for assessing generative models (NeurIPS19)
 * [qijunkun] Image-to-image translation via group-wise deep whitening-and-coloring transformation (CVPR19)
 * [qijunkun] Multi-mapping image-to-image translation via learning disentanglement (NeurIPS19)
+
+## 27 Nov 2019
+* [lvfeixiao] Editing Text in the Wild
+* [lvfeixiao] What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis
